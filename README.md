@@ -19,3 +19,4 @@ Mapping sailing terms in Italian 🇮🇹 - English 🇬🇧
 |boma|boom|
 |virare|tack (to)|
 |abbattere/strambare|gybe|
+|boa/gavitello|buoy|
